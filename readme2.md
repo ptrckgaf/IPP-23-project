@@ -35,3 +35,5 @@ Skript je možné spustiť príkazom:
 ### Class diagram v UML
 ![Class diagram](class_diagram_interpret.drawio.png)
 
+
+
